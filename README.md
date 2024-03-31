@@ -1,6 +1,6 @@
 # The Maze Project 👨‍🎓 
 
-![8970c3ee63d8149b93e30229276c3f7580ac9447](https://github.com/elyse502/The-Maze-Project/assets/125453474/4efdeb36-7965-4844-9e7d-ae8028561ed8)
+![8970c3ee63d8149b93e30229276c3f7580ac9447](https://github.com/TheMunene/Maze-Project/assets/125453474/4efdeb36-7965-4844-9e7d-ae8028561ed8)
 
 This project is a first person `3D` maze game. Similar to Wolfenstein or Doom, minus enemies and weapons, although they may be added later. It was made using `SDL2` and `C`. It runs on Mac OS X and Linux/Ubuntu. The game uses the technique raycasting to create the apparent `3D` nature of the maze. The Maze is a 3D Maze game that uses ray casting to render a 2D map into a 3D navigable world! 
 
@@ -29,7 +29,7 @@ git clone https://github.com/elyse502/The-Maze-Project.git
 
 Compile all .c files in the maze directory:
 ```groovy
-elysee_niyibizi@pc:~/maze$ gcc -g -Wall -Werror -Wextra -pedantic -I/usr/local/include/SDL2 ./src/*.c -o maze -L/usr/lib/x86_64-linux-gnu -lSDL2 -lm
+@pc:~/maze$ gcc -g -Wall -Werror -Wextra -pedantic -I/usr/local/include/SDL2 ./src/*.c -o maze -L/usr/lib/x86_64-linux-gnu -lSDL2 -lm
 ```
 Alternatively, just use the make command:
 ```sh
@@ -45,7 +45,6 @@ Or you can run with multiple maps at once:
 ./maze maps/level_1 maps/level_2
 ```
 
-Some basic maps are provided in this repo in the maps/ directory, but you can make your own maps to play as well.
 
 After running `./maze maps/level_1` you should see a screen like this:
 
@@ -100,29 +99,8 @@ In the image above the player starts 2 spaces in from the top left corner, and t
 
 <details><summary align="center"> </samp></summary><p align ="center"> Click on The PICTURE☝️</p></details>
 
-<p align="center">
-<b align="center">📍This project is still a work in progress more detail on the project will be available in the future🍿📺🍿</b>
-
 ## Author :black_nib:
-1. _[NIYIBIZI Elysée](https://linktr.ee/niyibizi_elysee) | [Github](https://github.com/elyse502) | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) | [Twitter](https://twitter.com/Niyibizi_Elyse)._
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-# Acknowledgements 🙏
-All work contained in this project was completed as part of the curriculum for _Alx-Africa_. _Alx-Africa_ is a remote-based full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit this [link](https://www.alxafrica.com/).
-* **ALX staff**: For the help, advice, and resources throughout the project and curriculum.
-* **Cohort 13 and all ALX students**: For friendship, support, and insights over the last year.
-* **YOU**: For reading this documentation and testing out The Game. I hope you enjoyed the ride!
-
-## Support🎉
-If you like how I present and document my work do me a favor of giving a Star ✨ to my [Repos](https://github.com/elyse502?tab=repositories) |&&| a [Follow](https://github.com/elyse502) 👥
-
-<p align="center">
-<h2 align="center"><img align="center" src="https://github.com/elyse502/AirBnB_clone/assets/125453474/ab3c1e01-2b98-47ae-96b7-37c07c85a2f1" alt="footer" width="150"  height="150"/></h2>
-
-
+1. _[Josphat Munene]|[Github](https://github.com/TheMunene)|[Linkedin](https://www.linkedin.com/in/josphat-munene-7b7693240/)
 
 
 
