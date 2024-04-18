@@ -1,6 +1,6 @@
 # The Maze Project 👨‍🎓 
 
-![8970c3ee63d8149b93e30229276c3f7580ac9447](https://github.com/TheMunene/Maze-Project/assets/125453474/4efdeb36-7965-4844-9e7d-ae8028561ed8)
+(https://github.com/TheMunene/Maze-Project/assets/125453474/4efdeb36-7965-4844-9e7d-ae8028561ed8)
 
 This project is a first person `3D` maze game. Similar to Wolfenstein or Doom, minus enemies and weapons, although they may be added later. It was made using `SDL2` and `C`. It runs on Mac OS X and Linux/Ubuntu. The game uses the technique raycasting to create the apparent `3D` nature of the maze. The Maze is a 3D Maze game that uses ray casting to render a 2D map into a 3D navigable world! 
 
@@ -95,7 +95,7 @@ In the image above the player starts 2 spaces in from the top left corner, and t
 - [3DSage/OpenGL-Raycaster](https://www.youtube.com/watch?v=gYRrGTC7GtA)
 
 ## Demo
-[![The Maze Demo](https://github.com/elyse502/The-Maze/assets/125453474/f06c5ca5-5463-4e6c-8bb7-ab34f0a00fa5)](https://youtu.be/MLKPI4e5RTE)
+[![The Maze Demo](https://github.com/elyse502/The-Maze/assets/125453474/f06c5ca5-5463-4e6c-8bb7-ab34f0a00fa5)](https://www.youtube.com/watch?v=mVXdrNagE5E)
 
 <details><summary align="center"> </samp></summary><p align ="center"> Click on The PICTURE☝️</p></details>
 
